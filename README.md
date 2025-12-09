@@ -1,6 +1,10 @@
 # Statistical-Analysis-in-R-
 Public Health &amp; Retail Insights
 
+## Statistical Analysis Report (HTML)
+View the full report here:  
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/ridhiaggarwal06/Statistical-Analysis-in-R-/main/Statistical-analysis.html
+
 ## Overview:
 This project combined two real-world statistical studies using UK public health data and retail customer data. The aim was to use statistical analysis and visualisation to understand what drives:
 - Cardiovascular Disease (CVD) across UK regions
